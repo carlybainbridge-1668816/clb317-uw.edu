@@ -1,0 +1,25 @@
+body {
+    background-color: red; 
+
+}
+
+div{
+    background-color: rgb(226, 87, 87);
+
+}
+
+#Content{
+    border:solid 8px black;
+    width: 700px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: 10px;
+    text-align: center; 
+    padding: 15px; 
+}
+
+
+#Footer{
+    border:solid 8px black; 
+    text-align: center; 
+}
